@@ -1,6 +1,7 @@
 # SampleRoom
 Kotlin practice, Room practice with MVVM.
 
+<img src="https://github.com/stephenKD/SampleRoom/blob/master/app/src/main/res/drawable/sample_pic.png?raw=true" width=20% height=20%/>
 
 ## Step 1
 Add libs in "build.gradle".
